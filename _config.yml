@@ -20,13 +20,13 @@ locale: "zh-CN"
 title: "NEUASLAB"
 title_separator: "-"
 subtitle: "东北大学无人自主系统实验室" # site tagline that appears below site title in masthead
-name: "东北大学无人自主系统实验室"
+name: "NEUASLAB"
 description: "欢迎来到东北大学自主无人系统实验室官网！我们是一支致力于智能车和无人机领域的专业研究团队，拥有高水平的研究人员，覆盖了机械、电子、自动化等多个学科领域。在本网站上，您可以了解我们的研究方向、团队成员、科研成果和服务内容等方面的信息。我们的研究成果在国内外学术界和产业界得到广泛认可，我们的目标是为自主无人系统的研究和开发服务，提高我国在相关领域的技术水平和核心竞争力。如果您对我们的研究方向和成果感兴趣，欢迎联系我们，我们期待着与您的合作。"
 url: "https://zhichucode.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository: "zhichucode/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
